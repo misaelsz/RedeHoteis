@@ -111,6 +111,14 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\Apartamento.cs" />
+    <Compile Include="Model\Cidade.cs" />
+    <Compile Include="Model\Endereco.cs" />
+    <Compile Include="Model\Estado.cs" />
+    <Compile Include="Model\Hospedagem.cs" />
+    <Compile Include="Model\Hospede.cs" />
+    <Compile Include="Model\Hotel.cs" />
+    <Compile Include="Model\Reserva.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup>
